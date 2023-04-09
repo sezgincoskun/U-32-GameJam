@@ -1,0 +1,697 @@
+fileFormatVersion: 2
+guid: f29b798ce86085e4c8a3e1fea5e23b2a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akademilogo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0030994728ee884c97f21d5a854195e
+      internalID: 2084389474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 226.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ae05494560ba64187db2efe6662edc
+      internalID: 811311175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 226.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5b2e91cf7989843a5ee2eefcbc069a
+      internalID: 1476594421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 226.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9409a599c2ce9c4f89655e7ebe00873
+      internalID: 1019547719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 226.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db44620e5647b3544b9396495371c73e
+      internalID: 986261421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4c90942dcd759418f549aeedaef7b8
+      internalID: -928907292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 170.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17a50c126c08864f822b552256388c1
+      internalID: -605074856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 170.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b256c4d86275d749ae99eaf2b1e9c69
+      internalID: 1871422191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 170.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef846d8cacea6ba489f61bb1b151f04a
+      internalID: -1227930801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 170.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b196c084f167af04e98a7f19de50fc71
+      internalID: 1595765547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d821ce590542ee4a8b3b060e07aea39
+      internalID: 1161599632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 114.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa83dcf5c794a54ca095ecddfa0d8ea
+      internalID: 513096158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 114.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0319c4a4d99249b4d8f4c31db0fd4932
+      internalID: -647973057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 114.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5abeb2294586c5489b1c077314f2835
+      internalID: -131299060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 114.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce151000393a447419ff8ee7f232d25d
+      internalID: 2059540773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b32f1873891aa4d93a315893656b26
+      internalID: 2053814532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 58.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989c311a9b0fa4d408e8110d298ea958
+      internalID: -1349283650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 58.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3f95410ae96274da07a416b47d8095
+      internalID: -1573126951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 58.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd309a1b730e9249a62274327fc4e95
+      internalID: -393445295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 58.4
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3898eed7e4126f4b99d09438f49488d
+      internalID: -332875989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2.4000015
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f2b82eaf39a584191b43ea022fc6df
+      internalID: -1924574417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2.4000015
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e59068f83b78642b6d870452c92209
+      internalID: -1494709926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 2.4000015
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4b091375ec4d34398ce2ad2ceae924
+      internalID: 926633552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2.4000015
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc82873f9634dd42b01ae7a112f09e9
+      internalID: 1306358222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akademilogo_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2.4000015
+        width: 48
+        height: 56.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e619b73a4ff9e469f9e0fd83fb0c4d
+      internalID: 631566513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      akademilogo_0: 2084389474
+      akademilogo_1: 811311175
+      akademilogo_10: 1161599632
+      akademilogo_11: 513096158
+      akademilogo_12: -647973057
+      akademilogo_13: -131299060
+      akademilogo_14: 2059540773
+      akademilogo_15: 2053814532
+      akademilogo_16: -1349283650
+      akademilogo_17: -1573126951
+      akademilogo_18: -393445295
+      akademilogo_19: -332875989
+      akademilogo_2: 1476594421
+      akademilogo_20: -1924574417
+      akademilogo_21: -1494709926
+      akademilogo_22: 926633552
+      akademilogo_23: 1306358222
+      akademilogo_24: 631566513
+      akademilogo_3: 1019547719
+      akademilogo_4: 986261421
+      akademilogo_5: -928907292
+      akademilogo_6: -605074856
+      akademilogo_7: 1871422191
+      akademilogo_8: -1227930801
+      akademilogo_9: 1595765547
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
